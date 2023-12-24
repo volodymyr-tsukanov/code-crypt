@@ -1,27 +1,27 @@
-﻿using System.Reflection;
-using System.Runtime.CompilerServices;
-
-// Information about this assembly is defined by the following attributes.
-// Change them to the values specific to your project.
-
-[assembly: AssemblyTitle("code-crypt")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Volodymyr Tsukanov")]
-[assembly: AssemblyProduct("")]
-[assembly: AssemblyCopyright("Volodymyr Tsukanov")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-
-// The assembly version has the format "{Major}.{Minor}.{Build}.{Revision}".
-// The form "{Major}.{Minor}.*" will automatically update the build and revision,
-// and "{Major}.{Minor}.{Build}.*" will update just the revision.
-
-[assembly: AssemblyVersion("1.0.*")]
-
-// The following attributes are used to specify the signing key for the assembly,
-// if desired. See the Mono documentation for more information about signing.
-
-//[assembly: AssemblyDelaySign(false)]
-//[assembly: AssemblyKeyFile("")]
-
+gzLHmsuu6GZz7Gf8ZkAuCPiAlCOJM3utDpOdIypyvS79B7RAqaAWtoVvX/v3lZ89PQEEHiN4nUcOehRxiz3HqbCu8lrgfbVpiBKm1WCkh0I=
+M5ui9a9aK876E5ndD6XlDkIJCWvat6V6Im1/NxUGMSI=
+tEonqaQmm8GhFNDnzL73xbzJXqcMy+2FD8A+pLXPxhs/Ct5M4Qwoz5nLet7tuyiZ
+pRX9/QBrhREqtiYk7SfnGw==
+0uF3HD1TXR8aGr1f5UinZZ4cBc1TaDtkILFlFKy9oa+Wfhpl7+WkTMOmqBFFDB3wyE/4v6G7fbNkAPhQ+jc8yHgXVSRkOGFR4SYTq4WNx4U=
+sLnwePnGwQIYEWNYmcyOQ8EwcX+idubPjY0xIzkHR1Y+LJpKHYGOUgDU03cMvQHmuIaihUpZq9LCnnYpc0pXFA==
+pRX9/QBrhREqtiYk7SfnGw==
+5hBJsgHTzYPZQJx1/82IMrjicGIi2D+USr3MJM+mFee3GgGeeurr8Ou8FBWQP4H9
+5hBJsgHTzYPZQJx1/82IMmBln1TYV4Tmr7ilV1GsDGrMGnpYYVNIurkYfTzJrGk7
+5hBJsgHTzYPZQJx1/82IMt9zjY6eBD+kv2FV8iY48xUyqgsyYt9+JlGkhcBaJBPH
+5hBJsgHTzYPZQJx1/82IMqy3CqDfaAZlgbuCyIrW5AK9X9l6LsovKyGFKa0E2uMXQfTQ8HwRzPTatdC15dbvvA==
+5hBJsgHTzYPZQJx1/82IMnPKzl3UuwNsvO5PK6vMBTQ=
+5hBJsgHTzYPZQJx1/82IMgxcTISD2X2yykBiDQtD4TzLfTcIFi2FActTgJ6FRSwU/9p697ZgwwRnUOQYaZlLjw==
+5hBJsgHTzYPZQJx1/82IMmbQ84ljECjiKli2y5P+BjC7lKOgEEC7mVSLyhMr41N7
+5hBJsgHTzYPZQJx1/82IMrDNKzcYVO2V34koOWHxN98=
+pRX9/QBrhREqtiYk7SfnGw==
+rDn5xrM9R0+wr6Q3F7tFmM+vBrSgvO19uf05pAd8z4upQtzYq9QB7ev7HaMfHOPhB+Wxw/MsZW/346g12ykvIV3/TEBsKjlID0nvDR2ZK8E=
+tWZXAlBnJa4v2srfCiyvh6GLxG6LI5n2x2vfyj+503Oe1c8reZhenmWMT5JyDeutpoQxJY0sQiB34dKuhmQOCja8OjRsM64pZXN4XLG72A/XtCu/IjgrYiHVS+Y4Vgn7
+VK+j5RWeSSEuFdCSsEoSyHXHXjixC286T/b/1sBM1l+njfioMNo9hJU3jpsvcxfeJvK11ncBAicKwFISsibKc301HDLiMbAVRUjOkWj5WA4=
+pRX9/QBrhREqtiYk7SfnGw==
+5hBJsgHTzYPZQJx1/82IMpaSnZIPeP4iWOSfpKrhIpluK63CogD2fLGCKuCQDuWC
+pRX9/QBrhREqtiYk7SfnGw==
+2xCQkWJNi7rpDaox0fMw+WK4I8uAX+ZJfSg9/IroYQBqnSmiparowLss5wOtecfv4he+iNaSzzQBnc5KgmH09IBKIvCi+FaI8HaFIlOiVBxoHnQcAw4+fmZ/8WCO9v20
+3wyFcDUFDh8wn+zdFA5GmrCRb3BKTwDF6cTzhdRiwvK0YyJ6FpdsfNx6bHlr+tVIfjTLEyyJdOnRm3v8fowNsn4erAWmkIn7FBCU1vIwj3A=
+pRX9/QBrhREqtiYk7SfnGw==
+Y74TnsGw4FkDaj8fzN+rJGHxVSJEtxgrBwxxQ6kQYMNVTGWSBDUt9ID22IxtgPRy
+Y74TnsGw4FkDaj8fzN+rJLzqPdMP44kNCYYb1HzSzJpmiuOt6iIKQtnBYhkdCSNT
