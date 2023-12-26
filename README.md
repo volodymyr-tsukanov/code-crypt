@@ -1,5 +1,6 @@
 # Console
-C# ; MonoDevelop</br></br>
+C# ; MonoDevelop
+Console version of **Code Crypt** that can be used in terminal(cmd)</br></br>
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
