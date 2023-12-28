@@ -1,4 +1,4 @@
-# code-crypt
+# Templates
 Code Crypt</br></br>
 
 
