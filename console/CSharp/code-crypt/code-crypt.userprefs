@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="code-crypt.csproj">
   <AuthorInfo Name="Volodymyr Tsukanov" Email="" Copyright="Volodymyr Tsukanov" Company="" Trademark="" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="288" Column="2" />
-      <File FileName="Files.cs" Line="336" Column="2" />
+      <File FileName="Program.cs" Line="15" Column="16" />
+      <File FileName="Files.cs" Line="594" Column="19" />
       <File FileName="Algorithms.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
