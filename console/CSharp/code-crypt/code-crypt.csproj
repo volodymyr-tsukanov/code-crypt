@@ -39,6 +39,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Algorithms.cs" />
     <Compile Include="Files.cs" />
+    <Compile Include="Specifications.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
