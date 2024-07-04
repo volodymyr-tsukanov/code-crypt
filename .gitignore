@@ -1,4 +1,8 @@
 # Extentions
 *.exe
+
+*.zip
+
 *.crpt
 *.cdcr
+*.ctmp

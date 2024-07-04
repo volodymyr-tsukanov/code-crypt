@@ -1,5 +1,9 @@
-# code-crypt
-Code Crypt</br></br>
+# Console
+C# ; MonoDevelop
+Console version of **Code Crypt** that can be used in Windows terminal(cmd)</br></br>
+
+> [!IMPORTANT]
+> .NET Framework is needed to run this tool
 
 
 Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]

@@ -2,5 +2,5 @@
 *.pdb
 
 # Folders
-code-crypt/bin/**
-code-crypt/obj/**
+code-crypt/bin/*
+code-crypt/obj/*
