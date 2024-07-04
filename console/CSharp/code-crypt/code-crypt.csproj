@@ -8,7 +8,7 @@
     <RootNamespace>VT.CodeCrypt</RootNamespace>
     <AssemblyName>code-crypt</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
-    <ReleaseVersion>0.7.2</ReleaseVersion>
+    <ReleaseVersion>0.8</ReleaseVersion>
     <StartupObject>VT.CodeCrypt.MainClass</StartupObject>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
